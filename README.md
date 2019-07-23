@@ -2,7 +2,7 @@
 - [x] Trinitycore 3.3.5a :shipit: | WOTLK
 - [x] Main System Transcendius Emulator | Antrix Project 2005 | 3.3.5a :shipit:
 
-# TR Database
+# TR Database | 3.3.5
 bug reports from players and fixes applied by our team.
 
 # How To use "The Issue Tracker"
