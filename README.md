@@ -35,4 +35,4 @@ In order to use the Issue Tracker, all you need to do is click on the green “N
 ```ruby
 > Relevant AddOns: 'Please type in any AddOns you are using that might interfere with the game in more problematic ways. If you want to be   safe, list all of them'
 ```
-> Thank you
+> Thank you and don't stop reporting!
